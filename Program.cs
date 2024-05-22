@@ -15,4 +15,3 @@ nokia.Ligar();
 nokia.ReceberLigacao();
 nokia.Desligar();
 nokia.InstalarAplicativo("Linkedin");
-// TODO: Realizar os testes com as classes Nokia e Iphone
